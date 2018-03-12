@@ -1,0 +1,33 @@
+{
+  "name": "linkIt",
+  "title": "Link It jQuery Plugin",
+  "description": "LinkIt is a simple jQuery plugin to attach links to elements",
+  "keywords": [
+    "link",
+    "html",
+    "content"
+  ],
+  "version": "0.1.0",
+  "author": {
+    "name": "Nemanja888",
+    "url": "https://github.com/nemanja888/jQueryPlugin"
+  },
+  "maintainers": [
+    {
+      "name": "Nemanja888",
+      "email": "nemanja.jekic90@gmail.com",
+      "url": "https://github.com/nemanja888/jQueryPlugin"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nemanja888/jQueryPlugin/LICENSE.txt"
+    }
+  ],
+  "homepage": "https://github.com/nemanja888/jQueryPlugin/",
+  "docs": "https://github.com/nemanja888/jQueryPlugin/",
+  "dependencies": {
+    "jquery": ">=1.9"
+  }
+}
